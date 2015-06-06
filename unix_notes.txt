@@ -107,9 +107,10 @@ git init
 
 test change
 
-
+# to show set global user name and email for git
 git config --global user.email
 git config --global user.name
+
 git config --global
 git config
 git config --global user.email yang70@gmail.com
