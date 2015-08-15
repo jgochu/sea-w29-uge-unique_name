@@ -1008,3 +1008,4 @@ cd users/yang70
 rmdir /temp/stuff/temp/stuff
 rmdir /temp/stuff/temp/stuff/mystuff/matt/i/like/ice-cream
 rmdir /temp/stuff/temp/stuff/mystuff/madd/i/like/ice-cream
+#who doesn't?
